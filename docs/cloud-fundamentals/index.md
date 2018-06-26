@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
                         </div>
                         <div class="cardText">
                             <h3>Application architecture guide</h3>
-                            <p> A guide to designing scalable, resilient, and highly available applications, based on proven
+                            <p> A guide to designing scalable, resilient, and highly available applications on Azure, based on proven
                                 practices that we have learned from customer engagements.</p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
                         </div>
                         <div class="cardText">
                             <h3>Data architecture guide</h3>
-                            <p>A structured approach to designing data-centric solutions on Microsoft Azure, including traditional OLTP and OLAP workloads, Big Data, streaming analytics, </p>
+                            <p>A structured approach to designing data-centric solutions on Azure, including traditional OLTP and OLAP workloads, Big Data, and streaming analytics.</p>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
                             </div>
                         </div>
                         <div class="cardText">
-                            <h3>Designing microservices architectures</h3>
+                            <h3>Designing microservices</h3>
                             <p>This multi-part series takes you through the process of designing and building a microservices architecture on Azure. A reference implementation is included.</p>
                         </div>
                     </div>
