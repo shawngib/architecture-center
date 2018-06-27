@@ -27,7 +27,7 @@ hide_bc: true
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="./cloud-fundamentals/_images/a3g-logo.svg" />
+                                                    <img src="./_images/a3g-logo.svg" height="140px" />
                                                 </div>
                                             </div>                                        
                                             <div class="cardText">
@@ -52,8 +52,13 @@ hide_bc: true
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="./_images/reference-architectures.svg" height="140px" />
+                                                </div>
+                                            </div>                                        
                                             <div class="cardText">
-                                                <h3 class="bgdAccent1" style="padding:20px;">Reference Architectures</h3>
+                                                <h3 class="bgdAccent1" style="padding:20px;"><a href="./reference-architectures/index.md">Reference Architectures</a></h3>
                                             </div>
                                         </div>
                                     </div>
