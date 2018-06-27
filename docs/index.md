@@ -15,15 +15,15 @@ hide_bc: true
                 <ul id="architecture">
                     <li>
                         <a href="#fundamentals"><a>
-                        <ul id="fundamentals" class="cardsC cols cols3">
+                        <ul id="fundamentals" class="cardsC">
                             <li>
-                                <a href="/cloud-fundamentals/" title="Cloud Fundamentals">
+                                <a href="/azure/cloud-fundamentals/" title="Cloud Fundamentals">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img data-scaleimage="./cloud-fundamentals/_images/a3g-logo.svg" src="./cloud-fundamentals/_images/a3g-logo.svg" alt="" />
+                                                        <img src="./cloud-fundamentals/_images/a3g-logo.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -42,3 +42,4 @@ hide_bc: true
         </ul>
     </div>
 </div>
+                                                
