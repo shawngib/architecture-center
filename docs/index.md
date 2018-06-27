@@ -14,8 +14,8 @@ hide_bc: true
                 <a href="#architecture"></a>
                 <ul id="architecture">
                     <li>
-                        <a href="fundamentals"><a>
-                        <ul id="products1" class="cardsC cols cols3">
+                        <a href="#fundamentals"><a>
+                        <ul id="fundamentals" class="cardsC cols cols3">
                             <li>
                                 <a href="/cloud-fundamentals/" title="Cloud Fundamentals">
                                     <div class="cardSize">
