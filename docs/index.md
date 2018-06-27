@@ -1,7 +1,7 @@
 ---
 title: Azure Architecture Center
 description: The Azure Architecture Center is the official center for guidance, blueprints, patterns, and best practices for building solutions with Microsoft Azure. It is curated by the Microsoft patterns & practices team.
-layout: LandingPage
+layout: HubPage
 ms.topic: landing-page
 ---
 
