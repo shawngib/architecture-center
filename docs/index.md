@@ -11,11 +11,11 @@ hide_bc: true
         <h1>Azure Architecture Center</h1>
         <ul class="pivots">
             <li>
-                <a href="#architecture"></a>
+                <a data-default="true" href="#architecture">Docs</a>
                 <ul id="architecture">
                     <li>
-                        <a href="#arch1"><a>
-                        <ul id="arch1" class="cardsC">
+                        <a href="#arch1">Cloud Fundamentals<a>
+                        <ul id="arch1" class="cardsF">
                             <li>
                                 <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
                                     <div class="cardSize">
@@ -39,7 +39,7 @@ hide_bc: true
                     </li>
                     <li>
                         <a href="#arch2"><a>
-                        <ul id="arch2" class="cardsC">
+                        <ul id="arch2" class="cardsF">
                             <li>
                                 <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
                                     <div class="cardSize">
@@ -63,7 +63,7 @@ hide_bc: true
                     </li>
                     <li>
                         <a href="#arch3"><a>
-                        <ul id="arch3" class="cardsC">
+                        <ul id="arch3" class="cardsF">
                             <li>
                                 <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
                                     <div class="cardSize">
