@@ -14,10 +14,58 @@ hide_bc: true
                 <a href="#architecture"></a>
                 <ul id="architecture">
                     <li>
-                        <a href="#fundamentals"><a>
-                        <ul id="fundamentals" class="cardsC">
+                        <a href="#arch1"><a>
+                        <ul id="arch1" class="cardsC">
                             <li>
-                                <a href="/azure/cloud-fundamentals/" title="Cloud Fundamentals">
+                                <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="./cloud-fundamentals/_images/a3g-logo.svg" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Cloud Fundamentals</h3>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#arch2"><a>
+                        <ul id="arch2" class="cardsC">
+                            <li>
+                                <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="./cloud-fundamentals/_images/a3g-logo.svg" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Cloud Fundamentals</h3>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#arch3"><a>
+                        <ul id="arch3" class="cardsC">
+                            <li>
+                                <a href="./cloud-fundamentals/index.md" title="Cloud Fundamentals">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
