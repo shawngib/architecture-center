@@ -2,11 +2,13 @@
 title: Azure Architecture Center
 description: The Azure Architecture Center is the official center for guidance, blueprints, patterns, and best practices for building solutions with Microsoft Azure. It is curated by the Microsoft patterns & practices team.
 layout: HubPage
-ms.topic: landing-page
+ms.topic: hub-page
+hide_bc: true
 ---
 
-# Azure Architecture Center
-
+<div id="main" class="v2">
+    <div class="container">
+    <h1>Azure Architecture Center</h1>
 <!-- main panel -->
 <ul class="panelContent cardsC">
     <!-- A3G -->
@@ -346,3 +348,5 @@ ms.topic: landing-page
         </a>
     </li>
 </ul>
+</div>
+</div>

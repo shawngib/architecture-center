@@ -145,26 +145,8 @@
 
 - name: Cloud design patterns
   items:
-  - name: Introduction
+  - name: Overview
     href: patterns/index.md
-  - name: Categories
-    items:
-    - name: Availability
-      href: patterns/category/availability.md
-    - name: Data management
-      href: patterns/category/data-management.md
-    - name: Design and implementation
-      href: patterns/category/design-implementation.md
-    - name: Messaging
-      href: patterns/category/messaging.md
-    - name: Management and monitoring
-      href: patterns/category/management-monitoring.md
-    - name: Performance and scalability
-      href: patterns/category/performance-scalability.md
-    - name: Resiliency
-      href: patterns/category/resiliency.md
-    - name: Security
-      href: patterns/category/security.md
   - name: Ambassador
     href: patterns/ambassador.md
   - name: Anti-corruption Layer

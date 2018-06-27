@@ -7,7 +7,7 @@ ms.date: 05/24/2017
 pnp.series.title: Best Practices
 ---
 # Background jobs
-[!INCLUDE [header](../_includes/header.md)]
+
 
 Many types of applications require background tasks that run independently of the user interface (UI). Examples include batch jobs, intensive processing tasks, and long-running processes such as workflows. Background jobs can be executed without requiring user interaction--the application can start the job and then continue to process interactive requests from users. This can help to minimize the load on the application UI, which can improve availability and reduce interactive response times.
 

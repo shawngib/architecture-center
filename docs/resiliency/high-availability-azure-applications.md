@@ -4,7 +4,7 @@ description: Technical overview and in-depth information about designing and bui
 author: adamglick
 ms.date: 05/31/2017
 ---
-[!INCLUDE [header](../_includes/header.md)]
+
 
 # High availability for applications built on Microsoft Azure
 A highly available application absorbs fluctuations in availability, load, and temporary failures in dependent services and hardware. The application continues to perform acceptably, as defined by business requirements or application service-level agreements (SLAs).
