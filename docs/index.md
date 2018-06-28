@@ -75,6 +75,11 @@ hide_bc: true
                             <li>
                                 <div class="cardSize">
                                     <div class="cardPadding">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="./_images/reference-architectures.svg" height="140px" />
+                                                </div>
+                                            </div>                                        
                                         <div class="card">
                                             <div class="cardText">
                                                 <h3 class="bgdAccent1" style="padding:20px;">Example Scenarios</h3>
