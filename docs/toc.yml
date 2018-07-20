@@ -478,19 +478,19 @@
     items:
       - name: Overview
         href: cloud-adoption-guide/adoption-intro/overview.md
-      - name: About Azure internals
+      - name: Understand Azure internals
         items:
         - name: How does Azure work?
           href: cloud-adoption-guide/adoption-intro/azure-explainer.md
         - name: What is cloud resource governance?
           href: cloud-adoption-guide/adoption-intro/governance-explainer.md
-      - name: About Azure resource access governance
+      - name: Understand Azure resource access governance
         items:
         - name: Understanding resource access management in Azure
           href: cloud-adoption-guide/adoption-intro/azure-resource-access.md
         - name: Azure governance design guide
           href: cloud-adoption-guide/adoption-intro/governance-how-to.md
-      - name: Deploying basic architectures to Azure
+      - name: Deploy a basic workload architecture to Azure
         items:
         - name: Platform as a Service (PaaS) architecture
           items: 
