@@ -17,29 +17,23 @@ The audience for this stage of the guide is the following personas within your o
 - *Central IT:* responsible for governing your organization's cloud resources including resource management and access, and workload health and monitoring.
 - *Workload owners:* all development roles that are involved in deploying workloads to Azure, including developers, testers, and build engineers.
 
-## Section 1: Azure basics
+## Step 1: Understand Azure internals
 
-This introductory section is intended for the *finance* and *central IT* personas. The focus of this section is acquiring a basic understanding of [how Azure works](azure-explainer.md) in preparation for learning about the [concept of cloud governance](governance-explainer.md). It may also be useful for the *workload owners* in your organization to review this content to help them understand how resource access is managed.
+This introductory step is intended for the *finance* and *central IT* personas. The focus of this section is acquiring a basic understanding of how Azure works in preparation for learning about the concept of cloud governance. It may also be useful for the *workload owners* in your organization to review this content to help them understand how resource access is managed.
 
-## Section 2: Governance design guide
+- [How does Azure work?](./azure-explainer.md)
+- [What is cloud resource governance?](./governance-explainer.md)
 
-Now that you understand how Azure works and the basics of cloud goverance, your first step in adopting Azure is learning about [resource access management](azure-resource-access.md) in Azure. This article describes the Azure services for making resource access requests and the controls used to validate those requests.
+## Step 2: Understand Azure resource access governance
 
-The next step is learning how to [design a governance model](governance-how-to.md) for a single team. This article describes how to configure the resource access management services and controls you learned about earlier.
+After you understand how Azure works and the basics of cloud goverance, your first step in adopting Azure is learning about resource access management in Azure. This article describes the Azure services for making resource access requests and the controls used to validate those requests.
 
-## Section 3: Implementing a basic resource access management model
+The next step is learning how to design a governance model for a single team. This article describes how to configure the resource access management services and controls you learned about earlier.
 
-The final step in your adoption journey is to learn how to implement the governance model designed earlier. 
+- [Understanding resource access management in Azure](./azure-resource-access.md)
+- [Azure governance design guide](./governance-how-to.md)
 
-To begin, your organization requires an Azure account. If your organization has an existing [Microsoft Enterprise Agreement](https://www.microsoft.com/licensing/licensing-programs/enterprise.aspx) that does not include Azure, Azure can be added by making an upfront monetary commitment. See [licensing Azure for the enterprise](https://azure.microsoft.com/pricing/enterprise-agreement/) for more information. 
-
-When your Azure account is created, you specify a person in your organization to be the Azure **account owner**. An Azure Active Directory (Azure AD) tenant is then created by default. Your Azure **account owner** must [create the user account](/azure/active-directory/add-users-azure-active-directory) for the person in your organization who is the **workload owner**. 
-
-Next, your Azure **account owner** must [create a subscription](https://docs.microsoft.com/partner-center/create-a-new-subscription) and [associate the Azure AD tenant](/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory) with it.
-
-Finally, now that the subscription is created and your Azure AD tenant is associated with it, you can [add the **workload owner** to the subscription with the built-in **owner** role](/azure/billing/billing-add-change-azure-subscription-administrator#add-an-rbac-owner-for-a-subscription-in-azure-portal).
-
-## Section 4: Deploy a basic workload architecture to Azure
+## Step 3: Deploy a basic workload architecture to Azure
 
 The audience for this section is the *workload owner* persona. *Workload owners* define the compute and networking requirements for their workloads, select the correct resources to meet those requirements, and deploy them to Azure. 
 
